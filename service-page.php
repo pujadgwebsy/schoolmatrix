@@ -21,11 +21,11 @@
       </div>
    </div>
 </div>
-<?php include "service.php";?>
-<?php include "demo.php";?>
-<?php include "work-process.php";?>
+<?php include "section/service.php";?>
+<?php include "section/demo.php";?>
+<?php include "section/work-process.php";?>
 <div class="space-bottom">
-   <?php include "why-choose-us.php";?>
+   <?php include "section/why-choose-us.php";?>
 </div>
 <?php include "popup.php";?>
 <?php include "include/footer.php";?>

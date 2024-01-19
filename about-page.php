@@ -21,9 +21,9 @@
       </div>
    </div>
 </div>
-<?php include "about.php";?>
-<?php include "testimonial.php";?>
-<?php include "faq.php";?>
-<?php include "blog.php";?>
+<?php include "section/about.php";?>
+<?php include "section/testimonial.php";?>
+<?php include "section/faq.php";?>
+<?php include "section/blog.php";?>
 <?php include "popup.php";?>
 <?php include "include/footer.php";?>

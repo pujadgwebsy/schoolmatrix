@@ -2,13 +2,13 @@
 	Footer Area
 ==============================-->
 <footer  data-bg-src="assets/img/bg/footer-bg.png">
-        <!-- <div class="shape-mockup footer-shape1 jump" data-left="60px" data-top="70px">
+       <!-- <div class="shape-mockup footer-shape1 jump" data-left="60px" data-top="70px">
             <img src="assets/img/normal/footer-bg-shape1.png" alt="img">
-        </div> -->
-        <!-- <div class="shape-mockup footer-shape2 jump-reverse" data-right="80px" data-bottom="120px">
+        </div> 
+       <div class="shape-mockup footer-shape2 jump-reverse" data-right="80px" data-bottom="120px">
             <img src="assets/img/normal/footer-bg-shape2.png" alt="img">
-        </div> -->
-        <!-- <div class="footer-top">
+        </div>  -->
+    <div class="footer-top">
             <div class="container">
                 <div class="footer-contact-wrap">
                     <div class="footer-contact">
@@ -17,7 +17,7 @@
                         </div>
                         <div class="media-body">
                             <p class="footer-contact_text">Call us any time:</p>
-                            <a href="tel+11234567890" class="footer-contact_link">+256 214 203 215</a>
+                            <a href="tel:+91-9625238239" class="footer-contact_link">+91-9625238239</a>
                         </div>
                     </div>
                     <div class="divider"></div>
@@ -27,7 +27,7 @@
                         </div>
                         <div class="media-body">
                             <p class="footer-contact_text">Email us 24/7 hours:</p>
-                            <a href="mailto:info@crm.com" class="footer-contact_link">info@crm.com</a>
+                            <a href="mailto:info@schoolmatrix.in" class="footer-contact_link">info@schoolmatrix.in</a>
                         </div>
                     </div>
                     <div class="divider"></div>
@@ -37,12 +37,12 @@
                         </div>
                         <div class="media-body">
                             <p class="footer-contact_text">Our university location:</p>
-                            <a href="https://www.google.com/maps" class="footer-contact_link">147/I, Green Road, Dhaka</a>
+                            <a href="https://www.google.com/maps/dir//Assotech+Business+Cresterra+Plot+No+22+Sector+135+Noida,+Uttar+Pradesh+201304/@28.4963031,77.4018702,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x390ce860bfea95d9:0x683ddf48f263ecc!2m2!1d77.4018702!2d28.4963031?entry=ttu" class="footer-contact_link">Digital Websynation,T2-817, Assotech Business Cresterra,<br>Sector 135,Noida, UP , India</a>
                         </div>
                     </div>
                 </div>
             </div>
-        </div> -->
+        </div> 
         <div class="footer-wrap" data-bg-src="assets/img/bg/jiji.png">
         <a href="https://wa.me/+91-9625238239" target="_blank">
             <img class="whatsapp-icon" src="https://digitalwebsynation.com/public/assets/img/whatsappicon.webp" alt="WhatsApp Icon"> <!-- Replace "whatsapp-icon.svg" with the path to your SVG image -->
@@ -56,7 +56,7 @@
                                     <div class="about-logo">
                                         <a href="index.php"><img style="filter: brightness(0%) invert(1) grayscale(1);" src="assets/img/logo.png" alt="crm"></a>
                                     </div>
-                                    <p class="about-text text-white">Continually optimize backward manufactured products whereas communities negotiate life compelling alignments</p>
+                                    <p class="about-text text-white">School Matrix was founded by a group of individuals who recognized the challenges that schools face in managing their operations efficiently.</p>
                                     <div class="th-social">
                                         <h6 class="title text-white">FOLLOW US ON:</h6>
                                         <a href="https://www.facebook.com/digitalwebsynation"><i class="fab fa-facebook-f"></i></a>
@@ -73,27 +73,28 @@
                                 <h3 class="widget_title">Quick Links</h3>
                                 <div class="menu-all-pages-container">
                                     <ul class="menu">
-                                        <li><a href="course.php">Life Coach</a></li>
-                                        <li><a href="course.php">Business Coach</a></li>
-                                        <li><a href="course.php">Health Coach</a></li>
-                                        <li><a href="course.php">Development</a></li>
-                                        <li><a href="course.php">Web Design</a></li>
-                                        <li><a href="course.php">SEO Optimize</a></li>
+                                        <li><a href="index.php">Home</a></li>
+                                        <li><a href="about-page.php">About Us</a></li>
+                                        <li><a href="service-page.php">Service</a></li>
+                                        <li><a href="benifit-page.php">Benifit</a></li>
+                                        <li><a href="blog-page.php">Blog</a></li>
+                                        <li><a href="connect-us.php">Contact</a></li>
+                                        
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6 col-xl-auto">
                             <div class="widget widget_nav_menu footer-widget">
-                                <h3 class="widget_title">Resources</h3>
+                                <h3 class="widget_title">Service</h3>
                                 <div class="menu-all-pages-container">
                                     <ul class="menu text-white">
-                                        <li><a href="contact.php">Community</a></li>
-                                        <li><a href="contact.php">Support</a></li>
-                                        <li><a href="contact.php">Video Guides</a></li>
-                                        <li><a href="contact.php">Documentation</a></li>
-                                        <li><a href="contact.php">Security</a></li>
-                                        <li><a href="contact.php">Template</a></li>
+                                        <li><a href="service-details-admin.php">Admin</a></li>
+                                        <li><a href="service-details-account.php">Account</a></li>
+                                        <li><a href="service-details-hr.php">HR</a></li>
+                                        <li><a href="service-details-student.php">Student</a></li>
+                                        <li><a href="service-details-report.php">Report</a></li>
+                                        <li><a href="service-details-exam.php">Exam</a></li>
                                     </ul>
                                 </div>
                             </div>

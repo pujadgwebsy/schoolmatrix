@@ -31,7 +31,7 @@ Team Area
                 <div class="row gx-40">
                     <div class="col-lg-6 position-relative">
                         <div class="team-details-thumb">
-                            <img src="assets/img/team/team-details.png" alt="team image">
+                            <img src="assets/img/service-details/admin.jpg" alt="team image">
                         </div>
                     </div>
                     <div class="col-lg-6">

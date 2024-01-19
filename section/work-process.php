@@ -2,12 +2,12 @@
 Process Area  
 ==============================-->
 <section class="space-top overflow-hidden">
-        <div class="process-bg-shape1 spin shape-mockup d-xl-block d-none" data-left="7%" data-top="15%">
+        <!-- <div class="process-bg-shape1 spin shape-mockup d-xl-block d-none" data-left="7%" data-top="15%">
             <img src="assets/img/process/process-bg-shape-1-1.png" alt="img">
-        </div>
-        <div class="process-bg-shape2 jump shape-mockup" data-right="-1%" data-bottom="15%">
+        </div> -->
+        <!-- <div class="process-bg-shape2 jump shape-mockup" data-right="-1%" data-bottom="15%">
             <img src="assets/img/process/process-bg-shape-1-2.png" alt="img">
-        </div>
+        </div> -->
         <div class="container">
             <div class="title-area text-center">
                 <span class="sub-title"><i class="fal fa-book me-1"></i> WHAT WE OFFER</span>
