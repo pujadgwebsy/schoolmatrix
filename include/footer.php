@@ -13,7 +13,8 @@
                 <div class="footer-contact-wrap">
                     <div class="footer-contact">
                         <div class="footer-contact_icon icon-btn">
-                            <i class="fal fa-phone"></i>
+                            <a href="tel:+91-9625238239"> <i class="fal fa-phone text-white"></i></a>
+                           
                         </div>
                         <div class="media-body">
                             <p class="footer-contact_text">Call us any time:</p>
@@ -23,7 +24,8 @@
                     <div class="divider"></div>
                     <div class="footer-contact">
                         <div class="footer-contact_icon icon-btn">
-                            <i class="fal fa-envelope"></i>
+                        <a href="mailto:info@schoolmatrix.in"> <i class="fal fa-envelope text-white"></i></a>
+                           
                         </div>
                         <div class="media-body">
                             <p class="footer-contact_text">Email us 24/7 hours:</p>
@@ -33,7 +35,8 @@
                     <div class="divider"></div>
                     <div class="footer-contact">
                         <div class="footer-contact_icon icon-btn">
-                            <i class="fal fa-location-dot"></i>
+                            <a href="https://www.google.com/maps/dir//Assotech+Business+Cresterra+Plot+No+22+Sector+135+Noida,+Uttar+Pradesh+201304/@28.4963031,77.4018702,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x390ce860bfea95d9:0x683ddf48f263ecc!2m2!1d77.4018702!2d28.4963031?entry=ttu" >  <i class="fal fa-location-dot text-white"></i></a>
+                          
                         </div>
                         <div class="media-body">
                             <p class="footer-contact_text">Our university location:</p>

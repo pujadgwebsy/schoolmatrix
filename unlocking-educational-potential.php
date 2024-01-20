@@ -15,7 +15,7 @@
       <div class="breadcumb-content text-center">
          <h1 class="breadcumb-title">Blog Details</h1>
          <ul class="breadcumb-menu">
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li>Blog Details</li>
          </ul>
       </div>
@@ -34,8 +34,8 @@
                </div>
                <div class="blog-content">
                   <div class="blog-meta">
-                     <a class="author" href="blog.html"><i class="far fa-user"></i>by SchoolMatrix</a>
-                     <a href="blog.html"><i class="fa-light fa-calendar-days"></i>05 June, 2023</a>
+                     <a class="author" href="javascript:void(0)"><i class="far fa-user"></i>by SchoolMatrix</a>
+                     <a href="javascript:void(0)"><i class="fa-light fa-calendar-days"></i>05 June, 2023</a>
                      
                   </div>
                   <h2 class="blog-title">Unlocking Educational Potential: A Deep Dive into School CRM Systems</h2>
@@ -68,7 +68,7 @@
                            <span class="commented-on">25Aug, 2023 08:56pm</span>
                            <p class="text">Through this blog, we aim to inspire readers to embrace education as a lifelong journey and to advocate for quality education that empowers individuals and communities.</p>
                            <div class="reply_and_edit">
-                              <a href="blog-details.html" class="reply-btn"><i class="fas fa-reply"></i>Reply</a>
+                              <a href="blog-details.php" class="reply-btn"><i class="fas fa-reply"></i>Reply</a>
                            </div>
                         </div>
                      </div>
@@ -83,7 +83,7 @@
                                  <span class="commented-on">25Aug, 2023 10:56pm</span>
                                  <p class="text">Education News and Trends: We provide updates on the latest developments and trends in the education sector, including educational research,</p>
                                  <div class="reply_and_edit">
-                                    <a href="blog-details.html" class="reply-btn"><i class="fas fa-reply"></i>Reply</a>
+                                    <a href="blog-details.php" class="reply-btn"><i class="fas fa-reply"></i>Reply</a>
                                  </div>
                               </div>
                            </div>
@@ -100,7 +100,7 @@
                            <span class="commented-on">26Aug, 2023 10:00pm</span>
                            <p class="text">We discuss strategies to help students make informed decisions about their educational and career paths, ensuring they are prepared for success in the workforce.</p>
                            <div class="reply_and_edit">
-                              <a href="blog-details.html" class="reply-btn"><i class="fas fa-reply"></i>Reply</a>
+                              <a href="blog-details.php" class="reply-btn"><i class="fas fa-reply"></i>Reply</a>
                            </div>
                         </div>
                      </div>

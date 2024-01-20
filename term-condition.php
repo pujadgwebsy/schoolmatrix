@@ -15,7 +15,7 @@
       <div class="breadcumb-content text-center">
          <h1 class="breadcumb-title">Term and Condition</h1>
          <ul class="breadcumb-menu">
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li>Term and Condition</li>
          </ul>
       </div>

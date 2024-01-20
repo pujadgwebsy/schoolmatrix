@@ -28,7 +28,7 @@
                      </div>
                      <div class="testi-box_bottom">
                         <div>
-                           <h3 class="testi-box_name">John Smith</h3>
+                           <h3 class="testi-box_name">Arjun Sharma</h3>
                         </div>
                         <div class="testi-box_review">
                            <i class="fa-solid fa-star-sharp"></i>
@@ -55,7 +55,7 @@
                      </div>
                      <div class="testi-box_bottom">
                         <div>
-                           <h3 class="testi-box_name">Sarah Johnson</h3>
+                           <h3 class="testi-box_name"> Priya Kapoor</h3>
                         </div>
                         <div class="testi-box_review">
                            <i class="fa-solid fa-star-sharp"></i>
@@ -76,13 +76,13 @@
                      </div>
                      <div class="testi-box_content">
                         <div class="testi-box_img">
-                           <img src="assets/img/testimonial/testi_1_1.jpg" alt="Avater">
+                           <img src="assets/img/testimonial/testi_1_3.jpg" alt="Avater">
                         </div>
                         <p class="testi-box_text">“I've tried many CRM apps, and this one stands out. The support is fantastic, and it's user-friendly for both teachers and parents.”</p>
                      </div>
                      <div class="testi-box_bottom">
                         <div>
-                           <h3 class="testi-box_name"> Michael Anderson</h3>
+                           <h3 class="testi-box_name">Aravind Nair</h3>
                         </div>
                         <div class="testi-box_review">
                            <i class="fa-solid fa-star-sharp"></i>
@@ -103,13 +103,13 @@
                      </div>
                      <div class="testi-box_content">
                         <div class="testi-box_img">
-                           <img src="assets/img/testimonial/testi_1_2.jpg" alt="Avater">
+                           <img src="assets/img/testimonial/testi_1_4.jpg" alt="Avater">
                         </div>
                         <p class="testi-box_text">“This CRM app transformed the way we interact with parents and manage student data. It's a game-changer for our school”</p>
                      </div>
                      <div class="testi-box_bottom">
                         <div>
-                           <h3 class="testi-box_name">Zara Head Milan</h3>
+                           <h3 class="testi-box_name">Aariz Khan</h3>
                         </div>
                         <div class="testi-box_review">
                            <i class="fa-solid fa-star-sharp"></i>

@@ -49,7 +49,7 @@
                </div>
             </div>
          </div>
-         <div class="col-md-6 col-xl-4">
+         <div class="col-md-6 col-xl-4">  
             <div class="th-blog blog-single style2">
                <div class="blog-img">
                   <a href="empowering-education.php"><img src="assets/img/blog/blog-1-3.jpg" alt="Blog Image"></a>
@@ -57,7 +57,7 @@
                <div class="blog-content">
                   <div class="blog-meta">
                      <a class="author" href="empowering-education.php"><i class="fa-light fa-user"></i>by School Matrix</a>
-                     <a href="empowering-education.php"><i class="fa-light fa-clock"></i>10 Jul, 2023</a>
+                     <a href="empowering-education.php"><i class="fa-light fa-clock"></i>10 Jan , 2024</a>
                   </div>
                   <h4 class="box-title"><a href="empowering-education.php">Empowering Education: Unleashing the Potential of School </a>
                   </h4>
@@ -73,7 +73,7 @@
                <div class="blog-content">
                   <div class="blog-meta">
                      <a class="author" href="enhancing-educational-connections.php"><i class="fa-light fa-user"></i>by School Matrix</a>
-                     <a href="enhancing-educational-connections.php"><i class="fa-light fa-clock"></i>10 Jul, 2023</a>
+                     <a href="enhancing-educational-connections.php"><i class="fa-light fa-clock"></i>10 Jan , 2024</a>
                   </div>
                   <h4 class="box-title"><a href="enhancing-educational-connections.php">Enhancing Educational Connections:  of School CRM  </a>
                   </h4>

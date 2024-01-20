@@ -15,7 +15,7 @@
       <div class="breadcumb-content text-center">
          <h1 class="breadcumb-title">Blog Details</h1>
          <ul class="breadcumb-menu">
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li>Blog Details</li>
          </ul>
       </div>
@@ -34,8 +34,8 @@
                </div>
                <div class="blog-content">
                   <div class="blog-meta">
-                     <a class="author" href="blog.html"><i class="far fa-user"></i>by SchoolMatrix</a>
-                     <a href="blog.html"><i class="fa-light fa-calendar-days"></i>05 June, 2023</a>
+                     <a class="author" href="javascript:void(0)"><i class="far fa-user"></i>by SchoolMatrix</a>
+                     <a href="javascript:void(0)"><i class="fa-light fa-calendar-days"></i>05 June, 2023</a>
                      
                   </div>
                   <h2 class="blog-title">Enhancing Educational Connections: The Evolution of School CRM Systems</h2>

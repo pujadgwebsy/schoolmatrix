@@ -15,14 +15,14 @@
       <div class="breadcumb-content text-center">
          <h1 class="breadcumb-title">Benifit</h1>
          <ul class="breadcumb-menu">
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li>Benifit</li>
          </ul>
       </div>
    </div>
 </div>
 <?php include "section/key-benifits.php";?>
-<?php include "section/benifits-details.php";?>
+
 <?php include "section/blog.php";?>
 <?php include "popup.php";?>
 <?php include "include/footer.php";?>

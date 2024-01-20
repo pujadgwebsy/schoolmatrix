@@ -4084,6 +4084,7 @@ a.text-theme:hover,
 }
 
 .recent-post .media-img img {
+  border: groove #053d81 2px;
   width: 100%;
   -webkit-transition: 0.4s ease-in-out;
   transition: 0.4s ease-in-out;
@@ -4996,7 +4997,7 @@ ol.wp-block-rss {
 }
 
 .widget_banner .logo {
-  background: var(--white-color);
+  background-image: linear-gradient(to right, #5a488d 0%, #2b84a3 51%, #6b4189 100%);
   border-radius: 10px;
   padding: 13px 39px;
   display: inline-block;
@@ -7402,6 +7403,7 @@ ol.wp-block-rss {
 }
 
 .footer-contact_icon i {
+  border: 1px solid #fff;
   height: 100%;
   width: 100%;
   -webkit-backdrop-filter: blur(9.8px);
@@ -13212,7 +13214,7 @@ span.select2-selection.select2-selection--single:focus {
   display: flex;
   gap: 30px;
   border-radius: 10px;
-  border: 1px solid #ECF1F9;
+  border: 2px groove var(--theme-color);
   background: var(--white-color);
   box-shadow: 0px 9px 14px 0px #FBFBFB;
   padding: 30px;
@@ -20643,6 +20645,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .category-card_icon {
+  border: 2px solid #5e4d8e;
   width: 60px;
   height: 60px;
   line-height: 60px;
@@ -20654,6 +20657,7 @@ span.select2-selection.select2-selection--single:focus {
   transition: 0.4s ease-in-out;
   margin: auto;
   margin-bottom: 20px;
+  border: 1px solid var(--theme-color);
 }
 
 .category-card_icon img {

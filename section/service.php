@@ -143,7 +143,7 @@ Contact Area
                             <div class="col-md-6 col-xl-4">
                                 <div class="category-card">
                                     <div class="category-card_icon">
-                                        <img src="assets/img/icon/cat-1_2.svg" alt="image">
+                                        <img src="assets/img/icon/hr.png" alt="image">
                                     </div>
                                     <div class="category-card_content">
                                         <h3 class="category-card_title"><a href="service-details-hr.php">Human Resource </a></h3>
@@ -156,7 +156,7 @@ Contact Area
                             <div class="col-md-6 col-xl-4">
                                 <div class="category-card">
                                     <div class="category-card_icon">
-                                        <img src="assets/img/icon/cat-1_3.svg" alt="image">
+                                        <img src="assets/img/icon/admin.png" alt="image">
                                     </div>
                                     <div class="category-card_content">
                                         <h3 class="category-card_title"><a href="service-details-admin.php">Admin</a></h3>
@@ -169,7 +169,7 @@ Contact Area
                             <div class="col-md-6 col-xl-4">
                                 <div class="category-card">
                                     <div class="category-card_icon">
-                                        <img src="assets/img/icon/cat-1_4.svg" alt="image">
+                                        <img src="assets/img/icon/student.png" alt="image">
                                     </div>
                                     <div class="category-card_content">
                                         <h3 class="category-card_title"><a href="service-details-student.php">students</a></h3>
@@ -182,7 +182,7 @@ Contact Area
                             <div class="col-md-6 col-xl-4">
                                 <div class="category-card">
                                     <div class="category-card_icon">
-                                        <img src="assets/img/icon/cat-1_1.svg" alt="image">
+                                        <img src="assets/img/icon/exam.png" alt="image">
                                     </div>
                                     <div class="category-card_content">
                                         <h3 class="category-card_title"><a href="service-details-exam.php">Exam</a></h3>
@@ -195,7 +195,7 @@ Contact Area
                             <div class="col-md-6 col-xl-4">
                                 <div class="category-card">
                                     <div class="category-card_icon">
-                                        <img src="assets/img/icon/cat-1_2.svg" alt="image">
+                                        <img src="assets/img/icon/report.png" alt="image">
                                     </div>
                                     <div class="category-card_content">
                                         <h3 class="category-card_title"><a href="service-details-report.php">Report</a></h3>

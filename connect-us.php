@@ -54,12 +54,12 @@
                </div>
                <div class="contact-feature">
                   <div class="contact-feature-icon">
-                     <i class="fal fa-clock"></i>
+                  <i class="fal fa-envelope"></i>
                   </div>
                   <div class="media-body">
-                     <p class="contact-feature_label">Hours of Working</p>
-                     <span class="contact-feature_link">Monday - Friday: 09:00 - 20:00</span>
-                     <span class="contact-feature_link">Sunday & Saturday: 10:30 - 22:00</span>
+                     <p class="contact-feature_label">Email us 24/7 hours</p>
+                     <a href="mailto:info@schoolmatrix.in" class="contact-feature_link"><span>info@schoolmatrix.in</span> </a>
+                    
                   </div>
                </div>
             </div>

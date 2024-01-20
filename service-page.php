@@ -15,7 +15,7 @@
       <div class="breadcumb-content text-center">
          <h1 class="breadcumb-title">Service</h1>
          <ul class="breadcumb-menu">
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li>Service</li>
          </ul>
       </div>

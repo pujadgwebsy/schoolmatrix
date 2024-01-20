@@ -25,6 +25,8 @@
                      </div>
                      <div class="btn-group mt-4" data-ani="slideinleft" data-ani-delay="0.8s">
                         <a href="https://newsjourno.site/" class="th-btn style2 ">Live Demo<i class="fas fa-arrow-right ms-2"></i></a>
+                        <a href="assets/pdf/School Matrix Documentation.pdf
+                        " class="th-btn style2 " download="School Matrix Documentation.pdf">DOCUMENTATION PDF<i class="fas fa-download ms-2"></i></a>
                         </div>
                   </div>
                </div>
