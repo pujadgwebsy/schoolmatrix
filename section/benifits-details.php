@@ -1,131 +1,239 @@
-   <!--==============================
-Benifits Details
-==============================-->
-<div class="space-top overflow-hidden">
-        <div class="shape-mockup category_3_shape1 jump d-lg-block d-none" data-bottom="3%" data-right="-3%">
-            <img src="assets/img/normal/category_3_shape1.png" alt="img">
-        </div>
-        <div class="shape-mockup category_3_shape2 spin d-lg-block d-none" data-top="3%" data-left="-3%">
-            <img src="assets/img/normal/category_3_shape2.png" alt="img">
-        </div>
-        <div class="container">
-            <div class="title-area text-center">
-                <span class="sub-title"><i class="fal fa-book me-2"></i>Benifits Details</span>
-                <h2 class="sec-title">Details Of Benifits</h2>
+
+
+
+<!-- Contact Area  
+   ==============================-->
+   <div class="space-top" id="faq">
+   <div class="container">
+      <div class="row">
+         <div class="col-xl-12 mb-30 mb-xl-12">
+            <div class="me-xxl-6">
+               <div class="title-area">
+                  <span class="sub-title"><i class="fal fa-book"></i> Explore Edura Education</span>
+                  <h2 class="sec-title">Frequently Asked Question?</h2>
+               </div>
+               
+               <div class="accordion-area accordion" id="faqAccordion">
+               <div class="row">
+                     <div class="col-lg-4 col-xl-4 col-md-6 mb-4">
+                     <div class="accordion-card ">
+                     <div class="accordion-header" id="collapse-item-1" >
+                        <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1"> <img src="assets/img/icon/category_2_1.svg" alt="crm"><h4>Dashboard</h4></button>
+                     </div>
+                     <div id="collapse-1" class="accordion-collapse collapse " aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                        <ul class="faq-text">
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                     </div>
+                     <div class="col-lg-4 col-xl-4 col-md-6 mb-4">
+                     <div class="accordion-card ">
+                     <div class="accordion-header" id="collapse-item-2">
+                        <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2"> <img src="assets/img/icon/category_2_1.svg" alt="crm"><h4>Dashboard</h4></button>
+                     </div>
+                     <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                        <ul class="faq-text">
+                        <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                     </div>
+                     <div class="col-lg-4 col-xl-4 col-md-6 mb-4">
+                     <div class="accordion-card ">
+                     <div class="accordion-header" id="collapse-item-3">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3"><h4>Dashboard</h4></button>
+                     </div>
+                     <div id="collapse-3" class="accordion-collapse collapse " aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                        <ul class="faq-text">
+                        <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                     </div>
+                     <div class="col-lg-4 col-xl-4 col-md-6 mb-4">
+                        
+                  <div class="accordion-card ">
+                     <div class="accordion-header" id="collapse-item-4">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4"><h4>Dashboard</h4></button>
+                     </div>
+                     <div id="collapse-4" class="accordion-collapse collapse " aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                        <ul class="faq-text">
+                        <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                     </div>
+                     <div class="col-lg-4 col-xl-4 col-md-6 mb-4">
+                     <div class="accordion-card ">
+                     <div class="accordion-header" id="collapse-item-5">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5"><h4>Dashboard</h4></button>
+                     </div>
+                     <div id="collapse-5" class="accordion-collapse collapse " aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                        <ul class="faq-text">
+                        <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                     </div>
+                     <div class="col-lg-4 col-xl-4 col-md-6 mb-4">
+                     <div class="accordion-card ">
+                     <div class="accordion-header" id="collapse-item-6">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6"><h4>Dashboard</h4></button>
+                     </div>
+                     <div id="collapse-6" class="accordion-collapse collapse " aria-labelledby="collapse-item-6" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                        <ul class="faq-text">
+                        <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                     </div>
+                     <div class="col-lg-4 col-xl-4 col-md-6 mb-4">
+                     <div class="accordion-card ">
+                     <div class="accordion-header" id="collapse-item-7">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-7" aria-expanded="false" aria-controls="collapse-6"> <h4>Dashboard</h4></button>
+                     </div>
+                     <div id="collapse-7" class="accordion-collapse collapse " aria-labelledby="collapse-item-7" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                        <ul class="faq-text">
+                        <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                     </div>
+                     <div class="col-lg-4 col-xl-4 col-md-6 mb-4">
+                     <div class="accordion-card ">
+                     <div class="accordion-header" id="collapse-item-8">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8" aria-expanded="false" aria-controls="collapse-8"> <h4>Dashboard</h4></button>
+                     </div>
+                     <div id="collapse-8" class="accordion-collapse collapse " aria-labelledby="collapse-item-8" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                        <ul class="faq-text">
+                        <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                     </div>
+                     <div class="col-lg-4 col-xl-4 col-md-6 mb-4">
+                     <div class="accordion-card ">
+                     <div class="accordion-header" id="collapse-item-9">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-9" aria-expanded="false" aria-controls="collapse-9"> <h4>Dashboard</h4></button>
+                     </div>
+                     <div id="collapse-9" class="accordion-collapse collapse " aria-labelledby="collapse-item-9" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                        <ul class="faq-text">
+                        <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                              <li>hgngyj</li>
+                              <li>dfgdfg</li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                     </div>
+                  </div>
+                 
+                  
+                
+                
+                 
+                 
+               </div>
             </div>
-            <div class="row gy-4">
-
-                <div class="col-lg-4 col-xl-3 col-md-6">
-                    <div class="category-card style2 cat-card2">
-                        <div class="category-card_icon">
-                            <img src="assets/img/icon/category_3_1.svg" alt="icon">
-                        </div>
-                        <div class="category-card_content">
-                            <h3 class="box-title"><a href="course.html">Web Development</a></h3>
-                            <span class="category-card_text">We design & develop comprehensive curricula aligned with academic.</span>
-                            <a href="course.html" class="link-btn">LEARN MORE <i class="fas fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="col-lg-4 col-xl-3 col-md-6">
-                    <div class="category-card style2 cat-card2 cat-card2-active">
-                        <div class="category-card_icon">
-                            <img src="assets/img/icon/category_3_2.svg" alt="icon">
-                        </div>
-                        <div class="category-card_content">
-                            <h3 class="box-title"><a href="course.html">Digital Marketing</a></h3>
-                            <span class="category-card_text">A digital market refers to an online platform where goods and services.</span>
-                            <a href="course.html" class="link-btn">LEARN MORE <i class="fas fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="col-lg-4 col-xl-3 col-md-6">
-                    <div class="category-card style2 cat-card2 ">
-                        <div class="category-card_icon">
-                            <img src="assets/img/icon/category_3_3.svg" alt="icon">
-                        </div>
-                        <div class="category-card_content">
-                            <h3 class="box-title"><a href="course.html">UI/UX Design</a></h3>
-                            <span class="category-card_text">Magnetic maintain Globally process with model architectures data after.</span>
-                            <a href="course.html" class="link-btn">LEARN MORE <i class="fas fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="col-lg-4 col-xl-3 col-md-6">
-                    <div class="category-card style2 cat-card2 ">
-                        <div class="category-card_icon">
-                            <img src="assets/img/icon/category_3_4.svg" alt="icon">
-                        </div>
-                        <div class="category-card_content">
-                            <h3 class="box-title"><a href="course.html">Graphic Design</a></h3>
-                            <span class="category-card_text">Graphic Design is the art and practice of visual communication, utilizing.</span>
-                            <a href="course.html" class="link-btn">LEARN MORE <i class="fas fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="col-lg-4 col-xl-3 col-md-6">
-                    <div class="category-card style2 cat-card2 ">
-                        <div class="category-card_icon">
-                            <img src="assets/img/icon/category_3_5.svg" alt="icon">
-                        </div>
-                        <div class="category-card_content">
-                            <h3 class="box-title"><a href="course.html">Physic Pro Course</a></h3>
-                            <span class="category-card_text">Physics courses generally cover a wide range of topics, include.</span>
-                            <a href="course.html" class="link-btn">LEARN MORE <i class="fas fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="col-lg-4 col-xl-3 col-md-6">
-                    <div class="category-card style2 cat-card2 ">
-                        <div class="category-card_icon">
-                            <img src="assets/img/icon/category_3_6.svg" alt="icon">
-                        </div>
-                        <div class="category-card_content">
-                            <h3 class="box-title"><a href="course.html">Music Production</a></h3>
-                            <span class="category-card_text">Music producers are responsible for guiding and overseeing the entire.</span>
-                            <a href="course.html" class="link-btn">LEARN MORE <i class="fas fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="col-lg-4 col-xl-3 col-md-6">
-                    <div class="category-card style2 cat-card2 ">
-                        <div class="category-card_icon">
-                            <img src="assets/img/icon/category_3_7.svg" alt="icon">
-                        </div>
-                        <div class="category-card_content">
-                            <h3 class="box-title"><a href="course.html">Lifestyle Course</a></h3>
-                            <span class="category-card_text">These courses cover a wide range of topics related to personal develop.</span>
-                            <a href="course.html" class="link-btn">LEARN MORE <i class="fas fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="col-lg-4 col-xl-3 col-md-6">
-                    <div class="category-card style2 cat-card2 ">
-                        <div class="category-card_icon">
-                            <img src="assets/img/icon/category_3_8.svg" alt="icon">
-                        </div>
-                        <div class="category-card_content">
-                            <h3 class="box-title"><a href="course.html">Business Growth</a></h3>
-                            <span class="category-card_text">Business growth refers to the process of increasing a companys.</span>
-                            <a href="course.html" class="link-btn">LEARN MORE <i class="fas fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
+         </div>
+      </div>
+   </div>
+</div>
+<!--==============================

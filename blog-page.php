@@ -35,7 +35,7 @@
                <div class="blog-content">
                   <div class="blog-meta">
                      <a class="author" href="javascript:void(0)"><i class="fa-light fa-user"></i>by SchoolMatrix</a>
-                     <a href="javascript:void(0)"><i class="fa-light fa-clock"></i>05 June, 2023</a>
+                     <a href="javascript:void(0)"><i class="fa-light fa-clock"></i>05 Jan, 2024</a>
                    
                   </div>
                   <h2 class="blog-title"><a href="unlocking-educational-potential.php">Unlocking Educational Potential: A Deep Dive into School CRM Systems</a>
@@ -52,7 +52,7 @@
                <div class="blog-content">
                   <div class="blog-meta">
                      <a class="author" href="javascript:void(0)"><i class="far fa-user"></i>by David Smith</a>
-                     <a href="javascript:void(0)"><i class="fa-light fa-calendar-days"></i>22 June, 2023</a>
+                     <a href="javascript:void(0)"><i class="fa-light fa-calendar-days"></i>22 Jan, 2024</a>
                    
                   </div>
                   <h2 class="blog-title"><a href="data-driven-education.php">Data-Driven Education: The Role of CRM in Shaping Student Success</a>
@@ -68,7 +68,7 @@
                </div>
                   <div class="blog-meta">
                      <a class="author" href="javascript:void(0)"><i class="far fa-user"></i>by David Smith</a>
-                     <a href="javascript:void(0)"><i class="fa-light fa-calendar-days"></i>24 June, 2023</a>
+                     <a href="javascript:void(0)"><i class="fa-light fa-calendar-days"></i>24 Jan, 2024</a>
                    
                   </div>
                   <h2 class="blog-title"><a href="empowering-education.php">Empowering Education: Unleashing the Potential of School CRM</a>
@@ -92,5 +92,5 @@
       </div>
    </div>
 </section>
-<?php include "popup.php";?>
+<?php include "section/popup.php";?>
 <?php include "include/footer.php";?>

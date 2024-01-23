@@ -25,7 +25,7 @@
                <div class="blog-content">
                   <div class="blog-meta">
                      <a class="author" href="unlocking-educational-potential.php"><i class="fa-light fa-user"></i>by School Matrix</a>
-                     <a href="unlocking-educational-potential.php"><i class="fa-light fa-clock"></i>05 Jun, 2023</a>
+                     <a href="unlocking-educational-potential.php"><i class="fa-light fa-clock"></i>20 Jan, 2024</a>
                   </div>
                   <h4 class="box-title"><a href="unlocking-educational-potential.php">Unlocking Educational Potential: A Deep Dive into School CRM </a>
                   </h4>
@@ -41,7 +41,7 @@
                <div class="blog-content">
                   <div class="blog-meta">
                      <a class="author" href="data-driven-education.php"><i class="fa-light fa-user"></i>by School Matrix</a>
-                     <a href="data-driven-education.php"><i class="fa-light fa-clock"></i>03 Jun, 2023</a>
+                     <a href="data-driven-education.php"><i class="fa-light fa-clock"></i>21 Jan, 2024</a>
                   </div>
                   <h4 class="box-title"><a href="data-driven-education.php">Data-Driven Education: The Role of CRM in Shaping Student </a>
                   </h4>
@@ -57,7 +57,7 @@
                <div class="blog-content">
                   <div class="blog-meta">
                      <a class="author" href="empowering-education.php"><i class="fa-light fa-user"></i>by School Matrix</a>
-                     <a href="empowering-education.php"><i class="fa-light fa-clock"></i>10 Jan , 2024</a>
+                     <a href="empowering-education.php"><i class="fa-light fa-clock"></i>22 Jan , 2024</a>
                   </div>
                   <h4 class="box-title"><a href="empowering-education.php">Empowering Education: Unleashing the Potential of School </a>
                   </h4>
@@ -73,7 +73,7 @@
                <div class="blog-content">
                   <div class="blog-meta">
                      <a class="author" href="enhancing-educational-connections.php"><i class="fa-light fa-user"></i>by School Matrix</a>
-                     <a href="enhancing-educational-connections.php"><i class="fa-light fa-clock"></i>10 Jan , 2024</a>
+                     <a href="enhancing-educational-connections.php"><i class="fa-light fa-clock"></i>25 Jan , 2024</a>
                   </div>
                   <h4 class="box-title"><a href="enhancing-educational-connections.php">Enhancing Educational Connections:  of School CRM  </a>
                   </h4>

@@ -3,8 +3,8 @@
       <div class="row justify-content-between align-items-center">
          <div class="col-lg-8">
             <div class="title-area text-lg-start text-center">
-               <span class="sub-title"><i class="fal fa-book me-2"></i> CRM Key & Benefits</span>
-               <h2 class="sec-title">Explore Our CRM App Benefits</h2>
+               <span class="sub-title"><i class="fal fa-book me-2"></i> Key & Benefits</span>
+               <h2 class="sec-title">Explore Our  Benefits</h2>
             </div>
          </div>
       </div>

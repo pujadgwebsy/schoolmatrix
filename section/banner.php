@@ -13,7 +13,7 @@
                      <h1 class="hero-title text-white" data-ani="slideinleft" data-ani-delay="0.4s">Everything You  
                         <span class="text-theme">Need</span> in One Place
                      </h1>
-                     <p class="hero-text" data-ani="slideinleft" data-ani-delay="0.6s">Empower your school with our cutting-edge CRM system. Say goodbye to paperwork and hello to streamlined operations.</p>
+                     <p class="hero-text" data-ani="slideinleft" data-ani-delay="0.6s">Empower your school with  School Matrix. Say goodbye to paperwork and hello to streamlined operations.</p>
                      <div class="checklist">
                         <ul>
                            <li>Get Certified</li>

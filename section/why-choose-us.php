@@ -26,8 +26,8 @@ Why choose us Area
             <div class="wcu-wrap1">
                 <div class="title-area mb-25">
                     <span class="sub-title"><i class="fal fa-book me-2"></i> WHY CHOOSE US</span>
-                    <h2 class="sec-title">Why Our School CRM Solution Is Your Ideal Choice ?</h2>
-                    <p class="sec-text mt-20">Choose us for the ultimate school CRM solution tailored to educational needs. Our user-friendly software streamlines administration, boosts communication, and enhances efficiency. With exceptional customer support and customization, we meet every school's unique requirements. </p>
+                    <h2 class="sec-title">Why Our School Matrix Solution Is Your Ideal Choice ?</h2>
+                    <p class="sec-text mt-20">Choose us for the ultimate School Matrix solution tailored to educational needs. Our user-friendly software streamlines administration, boosts communication, and enhances efficiency. With exceptional customer support and customization, we meet every school's unique requirements. </p>
                 </div>
                 <div class="row gy-4">
                     <div class="col-md-6">

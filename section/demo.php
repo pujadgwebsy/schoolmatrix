@@ -19,7 +19,7 @@ Demo Area
                     <div class="title-area mb-40">
                         <span class="sub-title"><i class="fal fa-book me-2"></i>Demo/Free Trial</span>
                         <h2 class="sec-title">Start your free trial today and experience the difference! </h2>
-                        <p>Experience the power of [Your CRM Name] with our free trial. During the trial, you can expect the following:  </p>
+                        <p>Experience the power of SchoolMatrix with our free trial. During the trial, you can expect the following:  </p>
                         <div class="checklist mt-35 mb-40">
                             <ul>
                                 <li>Full access to all features.</li>

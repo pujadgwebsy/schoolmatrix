@@ -37,7 +37,7 @@ Team Area
                     <div class="col-lg-6">
                         <div class="about-box">
                             <div class="about-info">
-                                <h2 class="title">Account Services</h2>
+                                <h2 class="title">Account Service Details</h2>
                               
                             </div>
                             
@@ -103,5 +103,5 @@ Team Area
     </section>
 
 
-<?php include "popup.php";?>
+<?php include "section/popup.php";?>
 <?php include "include/footer.php";?>

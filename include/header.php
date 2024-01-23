@@ -3,11 +3,18 @@
    <head>
       <meta charset="utf-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
-      <title>CRM website</title>
-      <meta name="author" content="crm">
-      <meta name="description" content="crm">
-      <meta name="keywords" content="crm">
-      <meta name="robots" content="INDEX,FOLLOW">
+      <title>School Matrix</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta property="og:title" content="Schoolmatrix Website">
+      <meta property="og:description" content="Explore our SchoolMatrix  website services, including Account management, Human Resource solutions, Admin tools, Exam services, and Report generation. Optimize your business processes with our comprehensive Schoolmatrix solutions.">
+      <meta property="og:url" content="https://schoolmatrix.in/">
+      <meta name="author" content="Schoolmatrix">
+      <meta name="description" content="Explore our schoolmatrix website services, including Account management, Human Resource solutions, Admin tools, Exam services, and Report generation. Optimize your business processes with our comprehensive schoolmatrix solutions.">
+      <meta name="keywords" content="schoolmatrix, Account Management, Human Resource, Admin, Exam Services, Report Generation, Business Solutions">
+      <meta name="robots" content="index, follow">
+      <meta name="copyright" content="&copy; 2024"/>
+      <meta property="og:type" content="website">
+      <meta property="og:site_name" content="schoolmatrix"/>
       <!-- Mobile Specific Metas -->
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <!-- Favicons - Place favicon.ico in the root directory -->
@@ -112,7 +119,7 @@
                               </div>
                            </li>
                            <li class="d-none d-lg-inline-block">
-                           <li class="d-none d-xl-inline-block"><i class="far fa-envelope"></i><a href="mailto:info@schoolmatrix.in">info@schoolmatrix.in</a></li>
+                           <li class="d-none d-xl-inline-block"><a href="mailto:info@schoolmatrix.in"><i class="far fa-envelope"></i> info@schoolmatrix.in</a></li>
                            </li>
                         </ul>
                      </div>
@@ -145,7 +152,7 @@
                               <button type="button" class="th-menu-toggle d-block d-lg-none"><i class="far fa-bars"></i></button>
                            </div>
                            <div class="col-auto d-none d-xl-block">
-                              <div class="header-button"  >
+                              <div class="header-button">
                                  <a href="connect-us.php" class="th-btn ml-25">Contact Us <i class="fas fa-arrow-right ms-1"></i></a>
                               </div>
                            </div>

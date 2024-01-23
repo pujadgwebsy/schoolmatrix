@@ -111,5 +111,5 @@ Team Area
     </section>
 
 
-<?php include "popup.php";?>
+<?php include "section/popup.php";?>
 <?php include "include/footer.php";?>

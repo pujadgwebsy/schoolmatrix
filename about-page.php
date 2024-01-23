@@ -25,5 +25,5 @@
 <?php include "section/testimonial.php";?>
 <?php include "section/faq.php";?>
 <?php include "section/blog.php";?>
-<?php include "popup.php";?>
+<?php include "section/popup.php";?>
 <?php include "include/footer.php";?>

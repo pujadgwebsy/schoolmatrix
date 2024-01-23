@@ -27,5 +27,5 @@
 <div class="space-bottom">
    <?php include "section/why-choose-us.php";?>
 </div>
-<?php include "popup.php";?>
+<?php include "section/popup.php";?>
 <?php include "include/footer.php";?>

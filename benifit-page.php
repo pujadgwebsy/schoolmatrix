@@ -21,8 +21,8 @@
       </div>
    </div>
 </div>
-<?php include "section/key-benifits.php";?>
 
+<?php include "section/benifits-details.php";?>
 <?php include "section/blog.php";?>
-<?php include "popup.php";?>
+<?php include "section/popup.php";?>
 <?php include "include/footer.php";?>

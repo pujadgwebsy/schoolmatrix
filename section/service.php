@@ -121,8 +121,9 @@ Contact Area
                <div class="title-area mb-25 mb-lg-0 text-xl-start text-center">
                   <span class="sub-title"><i class="fal fa-book me-2"></i> Our  Services</span>
                   <h2 class="sec-title">Scaling with Success</h2>
-                  <div class="th-btn">Experience Our Expertise <i class="fa-regular fa-arrow-right ms-2"></i>
-                  </div>
+                  <a href="service-page.php"> <div class="th-btn">Experience Our Expertise <i class="fa-regular fa-arrow-right ms-2"></i>
+                  </div></a>
+                 
                </div>
             </div>
             <div class="col-xl-8">
@@ -172,7 +173,7 @@ Contact Area
                                         <img src="assets/img/icon/student.png" alt="image">
                                     </div>
                                     <div class="category-card_content">
-                                        <h3 class="category-card_title"><a href="service-details-student.php">students</a></h3>
+                                        <h3 class="category-card_title"><a href="service-details-student.php">Students</a></h3>
                                         
                                         <a href="service-details-student.php" class="th-btn mt-4">Learn More <i class="fa-solid fa-arrow-right ms-1"></i></a>
                                     </div>
