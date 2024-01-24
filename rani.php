@@ -8,7 +8,7 @@
             </div>
          </div>
       </div>
-      <div class="row gy-4">
+      <div class="row gy-4">    
  <div class="col-lg-4 col-xl-4 col-md-6">
    <div class="faq-item accordion-item">
       <div class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">
@@ -25,7 +25,7 @@
          </div>
       </div>
    </div>
-</div> 
+</div>  
 
 <div class="col-lg-4 col-xl-4 col-md-6">
    <div class="faq-item accordion-item">

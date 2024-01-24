@@ -6,9 +6,9 @@ pop up Area
     <span class="close" id="closeModalButton">&times;</span>
       <div class="title-area mb-5">
        
-        <h2 class="sec-title fw-medium text-white">Get Solutions With Our Instructors</h2>
+        <h2 class="sec-title fw-medium text-white">Empower Your Business with SchoolMatrix</h2>
       </div>
-      <p class=" text-light d-sm-block d-md-block d-none">Quality technologies via fully tested methods of empowerment. Proactively disseminate web-enabled best practices after cross-functional expertise.</p>
+      <p class=" text-light d-sm-block d-md-block d-none">Transform the way you manage relationships, streamline processes, and drive growth with School Matrix.</p>
       <form class="course-form mb-2" action="#">
         <div class="row">
           <div class="col-md-6">

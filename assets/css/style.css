@@ -18050,6 +18050,7 @@ span.select2-selection.select2-selection--single:focus {
   border-radius: 0 0 5px 5px;
   background-color: var(--white-color);
   padding: 23px 25px 30px 25px;
+  border: 2px groove var(--theme-color);
 }
 
 .accordion-card .faq-text {
