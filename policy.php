@@ -47,5 +47,5 @@
    </div>
 </section>
 <?php include "section/popup.php";?>
-<?php include "rani.php";?>
+
 <?php include "include/footer.php";?>

@@ -176,49 +176,101 @@
     <script src="assets/js/nice-select.min.js"></script>
 
     <!-- Main Js File -->
-    <script src="assets/js/main.js"></script>
+    <!-- <script src="assets/js/main.js"></script>
     <script>
-    var modal = document.getElementById("myModal");
-    var modalShownCount = 0;
-    var intervalID = null;
-
-    // Get all elements with the class "modal-trigger"
-    var triggerButtons = document.querySelectorAll(".modal-trigger");
-    
-    // Add event listeners to each trigger button
-    triggerButtons.forEach(function(button) {
-      button.addEventListener("click", function() {
-        modal.style.display = "block";
-      });
-    });
-
-     function openModal() {
-      var modal = document.getElementById("myModal");
-      modal.style.display = "block";
-      // Function to close the modal after 10 seconds
-      setTimeout(function() {
-        modal.style.display = "none";
-      }, 10000);
-    }
-
-    // Function to display the modal after 3 seconds
-    setTimeout(openModal, 3000);
-
-    // Add an event listener to close the modal when clicking outside of it
-    window.addEventListener("click", function(event) {
-      var modal = document.getElementById("myModal");
-      if (event.target == modal) {
-        modal.style.display = "none";
-        // Reopen the modal after 10 seconds
-        setTimeout(openModal, 10000);
-      }
-    });
-     // Add a click event listener to the close button to close the modal
+  var modal = document.getElementById("myModal");
   var closeModalButton = document.getElementById("closeModalButton");
-  closeModalButton.addEventListener("click", function() {
-    modal.style.display = "none";
+  var modalShownCount = 0;
+  var intervalID = null;
+
+  // Get all elements with the class "modal-trigger"
+  var triggerButtons = document.querySelectorAll(".modal-trigger");
+  
+  // Add event listeners to each trigger button
+  triggerButtons.forEach(function(button) {
+    button.addEventListener("click", function() {
+      modal.style.display = "block";
+    });
   });
-  </script>
+
+  function openModal() {
+    modal.style.display = "block";
+    // Function to close the modal after 10 seconds
+    setTimeout(function() {
+      modal.style.display = "none";
+      // Reopen the modal after 10 seconds
+      setTimeout(openModal, 10000);
+    }, 10000);
+  }
+
+  // Function to close the modal
+  function closeModal() {
+    modal.style.display = "none";
+  }
+
+  // Event listener for close button click
+  closeModalButton.addEventListener("click", closeModal);
+
+  // Event listener for modal background click
+  window.addEventListener("click", function(event) {
+    if (event.target === modal) {
+      closeModal();
+      // Reopen the modal after 10 seconds
+      setTimeout(openModal, 10000);
+    }
+  });
+
+  // Function to display the modal after 3 seconds
+  setTimeout(openModal, 3000);
+</script> -->
+
+<script src="assets/js/main.js"></script>
+<script>
+  var modal = document.getElementById("myModal");
+  var closeModalButton = document.getElementById("closeModalButton");
+  var modalShownCount = 0;
+  var intervalID = null;
+
+  // Get all elements with the class "modal-trigger"
+  var triggerButtons = document.querySelectorAll(".modal-trigger");
+
+  // Add event listeners to each trigger button
+  triggerButtons.forEach(function(button) {
+    button.addEventListener("click", function() {
+      modal.style.display = "block";
+    });
+  });
+
+  function openModal() {
+    modal.style.display = "block";
+  }
+
+  // Function to close the modal
+  function closeModal() {
+    modal.style.display = "none";
+  }
+
+  // Event listener for close button click
+  closeModalButton.addEventListener("click", function() {
+    closeModal();
+    clearInterval(intervalID); // Clear the interval so it doesn't reopen
+  });
+
+  // Event listener for modal background click
+  window.addEventListener("click", function(event) {
+    if (event.target === modal) {
+      closeModal();
+      clearInterval(intervalID); // Clear the interval so it doesn't reopen
+    }
+  });
+
+  // Function to display the modal after 3 seconds
+  setTimeout(function() {
+    openModal();
+    // Set an interval to reopen the modal every 10 seconds
+    intervalID = setInterval(openModal, 10000);
+  }, 3000);
+</script>
 
 </body>
 

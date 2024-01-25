@@ -12,7 +12,7 @@
          <div class="col-lg-4 col-xl-3 col-md-6">
             <div class="category-list">
                <div class="category-list_icon">
-                  <img src="assets/img/icon/category_2_1.svg" alt="crm">
+                  <img src="assets/img/icon/dashboard.png" alt="crm">
                </div>
                <div class="category-list_content">
                   <h3 class="category-list_title">Dashboard</h3>
@@ -23,7 +23,7 @@
          <div class="col-lg-4 col-xl-3 col-md-6">
             <div class="category-list">
                <div class="category-list_icon">
-                  <img src="assets/img/icon/category_2_1.svg" alt="crm">
+                  <img src="assets/img/icon/hr.png" alt="crm">
                </div>
                <div class="category-list_content">
                   <h3 class="category-list_title">Human Resource</h3>
@@ -34,7 +34,7 @@
          <div class="col-lg-4 col-xl-3 col-md-6">
             <div class="category-list">
                <div class="category-list_icon">
-                  <img src="assets/img/icon/category_2_1.svg" alt="crm">
+                  <img src="assets/img/icon/admin.png" alt="crm">
                </div>
                <div class="category-list_content">
                   <h3 class="category-list_title">Administration</h3>
@@ -45,7 +45,7 @@
          <div class="col-lg-4 col-xl-3 col-md-6">
             <div class="category-list">
                <div class="category-list_icon">
-                  <img src="assets/img/icon/category_2_1.svg" alt="crm">
+                  <img src="assets/img/icon/account.png" alt="crm">
                </div>
                <div class="category-list_content">
                   <h3 class="category-list_title">Accounts</h3>
@@ -56,7 +56,7 @@
          <div class="col-lg-4 col-xl-3 col-md-6">
             <div class="category-list">
                <div class="category-list_icon">
-                  <img src="assets/img/icon/category_2_1.svg" alt="crm">
+                  <img src="assets/img/icon/student.png" alt="crm">
                </div>
                <div class="category-list_content">
                   <h3 class="category-list_title">Student</h3>
@@ -67,7 +67,7 @@
          <div class="col-lg-4 col-xl-3 col-md-6">
             <div class="category-list">
                <div class="category-list_icon">
-                  <img src="assets/img/icon/category_2_1.svg" alt="crm">
+                  <img src="assets/img/icon/report.png" alt="crm">
                </div>
                <div class="category-list_content">
                   <h3 class="category-list_title">Report</h3>
@@ -78,7 +78,8 @@
          <div class="col-lg-4 col-xl-3 col-md-6">
             <div class="category-list">
                <div class="category-list_icon">
-                  <img src="assets/img/icon/category_2_1.svg" alt="crm">
+                  <img src="assets/img/icon/exam.png
+                  " alt="crm">
                </div>
                <div class="category-list_content">
                   <h3 class="category-list_title">Exam</h3>
@@ -89,7 +90,7 @@
          <div class="col-lg-4 col-xl-3 col-md-6">
             <div class="category-list">
                <div class="category-list_icon">
-                  <img src="assets/img/icon/category_2_1.svg" alt="crm">
+                  <img src="assets/img/icon/utilities.png" alt="crm">
                </div>
                <div class="category-list_content">
                   <h3 class="category-list_title"> Utilities</h3>

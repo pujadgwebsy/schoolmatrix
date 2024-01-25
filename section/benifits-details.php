@@ -15,6 +15,9 @@
                         <div class="accordion-card ">
                            <div class="accordion-header" id="collapse-item-1" >
                               <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">
+                                 <div class="category-list_icon">
+                                    <img src="assets/img/icon/dashboard.png" alt="crm">
+                                 </div>
                                  <h5>Dashboard</h5>
                               </button>
                            </div>
@@ -50,6 +53,9 @@
                         <div class="accordion-card ">
                            <div class="accordion-header" id="collapse-item-2">
                               <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">
+                                 <div class="category-list_icon">
+                                    <img src="assets/img/icon/admin.png" alt="crm">
+                                 </div>
                                  <h5>Administration</h5>
                               </button>
                            </div>
@@ -82,6 +88,9 @@
                         <div class="accordion-card ">
                            <div class="accordion-header" id="collapse-item-3">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">
+                                 <div class="category-list_icon">
+                                    <img src="assets/img/icon/student.png" alt="crm">
+                                 </div>
                                  <h5>Student</h5>
                               </button>
                            </div>
@@ -109,6 +118,9 @@
                         <div class="accordion-card ">
                            <div class="accordion-header" id="collapse-item-4">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">
+                                 <div class="category-list_icon">
+                                    <img src="assets/img/icon/exam.png" alt="crm">
+                                 </div>
                                  <h5>Exam</h5>
                               </button>
                            </div>
@@ -133,6 +145,9 @@
                         <div class="accordion-card ">
                            <div class="accordion-header" id="collapse-item-5">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">
+                                 <div class="category-list_icon">
+                                    <img src="assets/img/icon/hr.png" alt="crm">
+                                 </div>
                                  <h5>Human Resource</h5>
                               </button>
                            </div>
@@ -157,6 +172,9 @@
                         <div class="accordion-card ">
                            <div class="accordion-header" id="collapse-item-6">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">
+                                 <div class="category-list_icon">
+                                    <img src="assets/img/icon/account.png" alt="crm">
+                                 </div>
                                  <h5>Accounts</h5>
                               </button>
                            </div>
@@ -181,6 +199,9 @@
                         <div class="accordion-card ">
                            <div class="accordion-header" id="collapse-item-7">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-7" aria-expanded="false" aria-controls="collapse-6">
+                                 <div class="category-list_icon">
+                                    <img src="assets/img/icon/utilities.png" alt="crm">
+                                 </div>
                                  <h5>Utilities </h5>
                               </button>
                            </div>
@@ -205,7 +226,10 @@
                         <div class="accordion-card ">
                            <div class="accordion-header" id="collapse-item-8">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8" aria-expanded="false" aria-controls="collapse-8">
-                                 <h5>Report Report </h5>
+                                 <div class="category-list_icon">
+                                    <img src="assets/img/icon/report.png" alt="crm">
+                                 </div>
+                                 <h5>Report</h5>
                               </button>
                            </div>
                            <div id="collapse-8" class="accordion-collapse collapse " aria-labelledby="collapse-item-8" data-bs-parent="#faqAccordion">
@@ -231,6 +255,9 @@
                         <div class="accordion-card ">
                            <div class="accordion-header" id="collapse-item-9">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-9" aria-expanded="false" aria-controls="collapse-9">
+                                 <div class="category-list_icon">
+                                    <img src="assets/img/icon/setting.png" alt="crm">
+                                 </div>
                                  <h5>Settings</h5>
                               </button>
                            </div>

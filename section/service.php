@@ -131,7 +131,7 @@ Contact Area
                             <div class="col-md-6 col-xl-4">
                                 <div class="category-card">
                                     <div class="category-card_icon">
-                                        <img src="assets/img/icon/cat-1_1.svg" alt="image">
+                                        <img src="assets/img/icon/account.png" alt="image">
                                     </div>
                                     <div class="category-card_content">
                                         <h3 class="category-card_title"><a href="service-details-account.php">Account</a></h3>
@@ -205,11 +205,6 @@ Contact Area
                                     </div>
                                 </div>
                             </div>
-
-                     
-
-                        
-
                         </div>
             </div>
          </div>
